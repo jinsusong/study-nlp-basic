@@ -16,5 +16,10 @@
     - 원-핫 인코딩
     - 데이터 분리
     - 한국어 전처리 패키지
+4. [Language Model](https://www.notion.so/5e4b5dd748be4e5296c30f387eeee3a8)
+    - 언어모델
+    - 통계적 언어 모델
+    - N-gram 언어 모델
+    - 펄플렉시티(PPL)  
 
 
