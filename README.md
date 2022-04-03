@@ -22,4 +22,8 @@
     - N-gram 언어 모델
     - 펄플렉시티(PPL)  
 
-
+5. [Count based word Representation](https://www.notion.so/997ccbba660b494ba6c3523d64afc553)
+    - 다양한 단어의 표현 방법
+    - Bag of Words(BOW)
+    - 문서 단어 행렬(Document-term Matrix DTM)
+    - TF-IDF(Term Frequency-Inverse Frequency)
