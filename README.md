@@ -27,3 +27,10 @@
     - Bag of Words(BOW)
     - 문서 단어 행렬(Document-term Matrix DTM)
     - TF-IDF(Term Frequency-Inverse Frequency)
+
+6. [유사도](https://www.notion.so/Vector-Similarity-543695933ddf4f628f32f15f90a9ea71)
+    - 벡터의 유사도 
+    - 코사인 유사도
+    - 유사도를 이용한 추천 시스템 구현
+    - 여러가지 유사도 기법
+    - 레벤슈타인 거리
