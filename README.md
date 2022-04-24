@@ -38,3 +38,8 @@
     - 머신러닝 개요 & 특징
     - 선형회귀
     - 로지스틱 
+8. [머신러닝](https://www.notion.so/Machine-Learning-40d3ab4425e248cea5ab0de2a9c99ae7)
+    - 로지스틱 회귀
+    - 다중 선형 회귀
+    - 다중 로지스틱 회귀
+    - 소프트맥스 회귀  
