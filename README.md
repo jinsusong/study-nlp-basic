@@ -43,3 +43,8 @@
     - 다중 선형 회귀
     - 다중 로지스틱 회귀
     - 소프트맥스 회귀  
+9. [딥러닝](https://www.notion.so/RNN-LSTM-9a4027bac41542e1a1c7ef905116c135)
+    - 딥러닝 
+    - RNN
+    - LSTM
+    - GRU
