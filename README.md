@@ -48,3 +48,4 @@
     - RNN
     - LSTM
     - GRU
+10. [Word2Vec]()
