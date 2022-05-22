@@ -49,3 +49,4 @@
     - LSTM
     - GRU
 10. [Word2Vec]()
+11. [Word2 embedding]()
